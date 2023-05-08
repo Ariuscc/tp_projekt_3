@@ -895,33 +895,15 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/planar_quadrotor_visualizer.cpp.
   C:/msys64/mingw64/include/c++/12.2.0/backward/auto_ptr.h \
   C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_memory_defs.h \
   C:/msys64/mingw64/include/c++/12.2.0/pstl/execution_defs.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_main.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_stdinc.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_config.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_platform.h \
-  SDL2_gfx/SDL-2.24.2/include/begin_code.h \
-  SDL2_gfx/SDL-2.24.2/include/close_code.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_config_windows.h \
-  C:/msys64/mingw64/include/winsdkver.h \
-  C:/msys64/mingw64/include/winapifamily.h \
-  C:/msys64/mingw64/include/sdkddkver.h \
-  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdarg.h \
-  C:/msys64/mingw64/include/stdarg.h \
-  C:/msys64/mingw64/include/_mingw_stdarg.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_assert.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_atomic.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_audio.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_error.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_endian.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_mutex.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_thread.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_rwops.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_clipboard.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_cpuinfo.h \
-  C:/msys64/mingw64/include/intrin.h \
-  C:/msys64/mingw64/include/setjmp.h \
-  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
+  SDL/include/SDL.h \
+  SDL/include/SDL_main.h \
+  SDL/include/SDL_stdinc.h \
+  SDL/include-config-release/SDL_config.h \
+  SDL/include/SDL_platform.h \
+  SDL/include/begin_code.h \
+  SDL/include/close_code.h \
+  C:/msys64/mingw64/include/stdio.h \
+  C:/msys64/mingw64/include/sec_api/stdio_s.h \
   C:/msys64/mingw64/include/c++/12.2.0/stdlib.h \
   C:/msys64/mingw64/include/c++/12.2.0/cstdlib \
   C:/msys64/mingw64/include/stdlib.h \
@@ -929,6 +911,47 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/planar_quadrotor_visualizer.cpp.
   C:/msys64/mingw64/include/malloc.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/std_abs.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdarg.h \
+  C:/msys64/mingw64/include/stdarg.h \
+  C:/msys64/mingw64/include/_mingw_stdarg.h \
+  C:/msys64/mingw64/include/string.h \
+  C:/msys64/mingw64/include/sec_api/string_s.h \
+  C:/msys64/mingw64/include/strings.h \
+  C:/msys64/mingw64/include/inttypes.h \
+  C:/msys64/mingw64/include/ctype.h \
+  C:/msys64/mingw64/include/c++/12.2.0/math.h \
+  C:/msys64/mingw64/include/c++/12.2.0/cmath \
+  C:/msys64/mingw64/include/math.h \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/specfun.h \
+  C:/msys64/mingw64/include/c++/12.2.0/limits \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/gamma.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/special_function_util.h \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/bessel_function.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/beta_function.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/ell_integral.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/exp_integral.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/hypergeometric.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/legendre_function.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/modified_bessel_func.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/poly_hermite.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/poly_laguerre.tcc \
+  C:/msys64/mingw64/include/c++/12.2.0/tr1/riemann_zeta.tcc \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/float.h \
+  C:/msys64/mingw64/include/float.h \
+  SDL/include/SDL_assert.h \
+  SDL/include/SDL_atomic.h \
+  SDL/include/SDL_platform.h \
+  SDL/include/SDL_audio.h \
+  SDL/include/SDL_error.h \
+  SDL/include/SDL_endian.h \
+  SDL/include/SDL_mutex.h \
+  SDL/include/SDL_thread.h \
+  SDL/include/SDL_rwops.h \
+  SDL/include/SDL_clipboard.h \
+  SDL/include/SDL_cpuinfo.h \
+  C:/msys64/mingw64/include/intrin.h \
+  C:/msys64/mingw64/include/setjmp.h \
+  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/x86intrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/x86gprintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/ia32intrin.h \
@@ -1020,57 +1043,40 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/planar_quadrotor_visualizer.cpp.
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/ammintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/xopintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/cpuid.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_events.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_video.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_pixels.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_rect.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_surface.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_blendmode.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_keyboard.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_keycode.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_scancode.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_mouse.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_joystick.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_guid.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_gamecontroller.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_sensor.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_quit.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_gesture.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_touch.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_filesystem.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_haptic.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_hidapi.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_hints.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_loadso.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_log.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_messagebox.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_metal.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_power.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_render.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_shape.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_system.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_timer.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_version.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_locale.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_misc.h \
+  SDL/include/SDL_events.h \
+  SDL/include/SDL_video.h \
+  SDL/include/SDL_pixels.h \
+  SDL/include/SDL_rect.h \
+  SDL/include/SDL_surface.h \
+  SDL/include/SDL_blendmode.h \
+  SDL/include/SDL_keyboard.h \
+  SDL/include/SDL_keycode.h \
+  SDL/include/SDL_scancode.h \
+  SDL/include/SDL_mouse.h \
+  SDL/include/SDL_joystick.h \
+  SDL/include/SDL_guid.h \
+  SDL/include/SDL_gamecontroller.h \
+  SDL/include/SDL_sensor.h \
+  SDL/include/SDL_quit.h \
+  SDL/include/SDL_gesture.h \
+  SDL/include/SDL_touch.h \
+  SDL/include/SDL_filesystem.h \
+  SDL/include/SDL_haptic.h \
+  SDL/include/SDL_hidapi.h \
+  SDL/include/SDL_hints.h \
+  SDL/include/SDL_loadso.h \
+  SDL/include/SDL_log.h \
+  SDL/include/SDL_messagebox.h \
+  SDL/include/SDL_metal.h \
+  SDL/include/SDL_power.h \
+  SDL/include/SDL_render.h \
+  SDL/include/SDL_shape.h \
+  SDL/include/SDL_system.h \
+  SDL/include/SDL_timer.h \
+  SDL/include/SDL_version.h \
+  SDL/include/SDL_locale.h \
+  SDL/include/SDL_misc.h \
   C:/Users/marop/tp_projekt_3/SDL2_gfx/SDL2_gfxPrimitives.h \
-  C:/msys64/mingw64/include/c++/12.2.0/math.h \
-  C:/msys64/mingw64/include/c++/12.2.0/cmath \
-  C:/msys64/mingw64/include/math.h \
-  C:/msys64/mingw64/include/c++/12.2.0/bits/specfun.h \
-  C:/msys64/mingw64/include/c++/12.2.0/limits \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/gamma.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/special_function_util.h \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/bessel_function.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/beta_function.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/ell_integral.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/exp_integral.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/hypergeometric.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/legendre_function.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/modified_bessel_func.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/poly_hermite.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/poly_laguerre.tcc \
-  C:/msys64/mingw64/include/c++/12.2.0/tr1/riemann_zeta.tcc \
   C:/Users/marop/tp_projekt_3/PlanarQuadrotor/planar_quadrotor.h \
   _deps/eigen-src/Eigen/Dense \
   _deps/eigen-src/Eigen/Core \
@@ -1087,10 +1093,7 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/planar_quadrotor_visualizer.cpp.
   C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++locale.h \
   C:/msys64/mingw64/include/c++/12.2.0/clocale \
   C:/msys64/mingw64/include/locale.h \
-  C:/msys64/mingw64/include/stdio.h \
-  C:/msys64/mingw64/include/sec_api/stdio_s.h \
   C:/msys64/mingw64/include/c++/12.2.0/cctype \
-  C:/msys64/mingw64/include/ctype.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/ios_base.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/locale_classes.h \
   C:/msys64/mingw64/include/c++/12.2.0/string \
@@ -1149,8 +1152,6 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/planar_quadrotor_visualizer.cpp.
   C:/msys64/mingw64/include/c++/12.2.0/bits/stl_heap.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/uniform_int_dist.h \
   C:/msys64/mingw64/include/c++/12.2.0/cstring \
-  C:/msys64/mingw64/include/string.h \
-  C:/msys64/mingw64/include/sec_api/string_s.h \
   C:/msys64/mingw64/include/c++/12.2.0/climits \
   C:/msys64/mingw64/include/c++/12.2.0/algorithm \
   C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_algorithm_defs.h \
@@ -1743,30 +1744,32 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/simulate.cpp.obj: C:/Users/marop
   _deps/eigen-src/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h \
   _deps/eigen-src/Eigen/src/Eigenvalues/RealQZ.h \
   _deps/eigen-src/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_main.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_stdinc.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_config.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_platform.h \
-  SDL2_gfx/SDL-2.24.2/include/begin_code.h \
-  SDL2_gfx/SDL-2.24.2/include/close_code.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_config_windows.h \
-  C:/msys64/mingw64/include/winsdkver.h \
-  C:/msys64/mingw64/include/winapifamily.h \
-  C:/msys64/mingw64/include/sdkddkver.h \
+  SDL/include/SDL.h \
+  SDL/include/SDL_main.h \
+  SDL/include/SDL_stdinc.h \
+  SDL/include-config-release/SDL_config.h \
+  SDL/include/SDL_platform.h \
+  SDL/include/begin_code.h \
+  SDL/include/close_code.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdarg.h \
   C:/msys64/mingw64/include/stdarg.h \
   C:/msys64/mingw64/include/_mingw_stdarg.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_assert.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_atomic.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_audio.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_error.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_endian.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_mutex.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_thread.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_rwops.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_clipboard.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_cpuinfo.h \
+  C:/msys64/mingw64/include/strings.h \
+  C:/msys64/mingw64/include/inttypes.h \
+  C:/msys64/mingw64/include/c++/12.2.0/math.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/float.h \
+  C:/msys64/mingw64/include/float.h \
+  SDL/include/SDL_assert.h \
+  SDL/include/SDL_atomic.h \
+  SDL/include/SDL_platform.h \
+  SDL/include/SDL_audio.h \
+  SDL/include/SDL_error.h \
+  SDL/include/SDL_endian.h \
+  SDL/include/SDL_mutex.h \
+  SDL/include/SDL_thread.h \
+  SDL/include/SDL_rwops.h \
+  SDL/include/SDL_clipboard.h \
+  SDL/include/SDL_cpuinfo.h \
   C:/msys64/mingw64/include/intrin.h \
   C:/msys64/mingw64/include/setjmp.h \
   C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
@@ -1856,41 +1859,40 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/simulate.cpp.obj: C:/Users/marop
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/ammintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/xopintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/cpuid.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_events.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_video.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_pixels.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_rect.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_surface.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_blendmode.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_keyboard.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_keycode.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_scancode.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_mouse.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_joystick.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_guid.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_gamecontroller.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_sensor.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_quit.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_gesture.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_touch.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_filesystem.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_haptic.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_hidapi.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_hints.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_loadso.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_log.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_messagebox.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_metal.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_power.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_render.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_shape.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_system.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_timer.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_version.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_locale.h \
-  SDL2_gfx/SDL-2.24.2/include/SDL_misc.h \
+  SDL/include/SDL_events.h \
+  SDL/include/SDL_video.h \
+  SDL/include/SDL_pixels.h \
+  SDL/include/SDL_rect.h \
+  SDL/include/SDL_surface.h \
+  SDL/include/SDL_blendmode.h \
+  SDL/include/SDL_keyboard.h \
+  SDL/include/SDL_keycode.h \
+  SDL/include/SDL_scancode.h \
+  SDL/include/SDL_mouse.h \
+  SDL/include/SDL_joystick.h \
+  SDL/include/SDL_guid.h \
+  SDL/include/SDL_gamecontroller.h \
+  SDL/include/SDL_sensor.h \
+  SDL/include/SDL_quit.h \
+  SDL/include/SDL_gesture.h \
+  SDL/include/SDL_touch.h \
+  SDL/include/SDL_filesystem.h \
+  SDL/include/SDL_haptic.h \
+  SDL/include/SDL_hidapi.h \
+  SDL/include/SDL_hints.h \
+  SDL/include/SDL_loadso.h \
+  SDL/include/SDL_log.h \
+  SDL/include/SDL_messagebox.h \
+  SDL/include/SDL_metal.h \
+  SDL/include/SDL_power.h \
+  SDL/include/SDL_render.h \
+  SDL/include/SDL_shape.h \
+  SDL/include/SDL_system.h \
+  SDL/include/SDL_timer.h \
+  SDL/include/SDL_version.h \
+  SDL/include/SDL_locale.h \
+  SDL/include/SDL_misc.h \
   C:/Users/marop/tp_projekt_3/SDL2_gfx/SDL2_gfxPrimitives.h \
-  C:/msys64/mingw64/include/c++/12.2.0/math.h \
   C:/Users/marop/tp_projekt_3/PlanarQuadrotor/planar_quadrotor.h \
   C:/Users/marop/tp_projekt_3/PlanarQuadrotor/lqr.h \
   C:/Users/marop/tp_projekt_3/PlanarQuadrotor/planar_quadrotor_visualizer.h
@@ -1938,13 +1940,9 @@ C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 C:/msys64/mingw64/include/vadefs.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_joystick.h:
-
 C:/Users/marop/tp_projekt_3/PlanarQuadrotor/planar_quadrotor.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/ostream:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_loadso.h:
 
 C:/msys64/mingw64/include/stdio.h:
 
@@ -1966,6 +1964,8 @@ C:/msys64/mingw64/include/c++/12.2.0/iosfwd:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/amxint8intrin.h:
 
+SDL/include/SDL_haptic.h:
+
 C:/msys64/mingw64/include/corecrt_stdio_config.h:
 
 _deps/eigen-src/Eigen/src/Core/DenseCoeffsBase.h:
@@ -1973,8 +1973,6 @@ _deps/eigen-src/Eigen/src/Core/DenseCoeffsBase.h:
 C:/msys64/mingw64/include/c++/12.2.0/bits/stringfwd.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/memoryfwd.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/localefwd.h:
 
@@ -1989,6 +1987,10 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/predefined_ops.h:
 C:/msys64/mingw64/include/c++/12.2.0/bits/stl_construct.h:
 
 C:/msys64/mingw64/include/wchar.h:
+
+SDL/include/close_code.h:
+
+C:/msys64/mingw64/include/float.h:
 
 C:/msys64/mingw64/include/corecrt.h:
 
@@ -2012,17 +2014,11 @@ _deps/eigen-src/Eigen/src/Geometry/Transform.h:
 
 C:/msys64/mingw64/include/swprintf.inl:
 
-C:/msys64/mingw64/include/winapifamily.h:
-
 C:/msys64/mingw64/include/sec_api/wchar_s.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/exception:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/exception.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_endian.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_blendmode.h:
 
 C:/msys64/mingw64/include/string.h:
 
@@ -2044,11 +2040,11 @@ C:/msys64/mingw64/include/stddef.h:
 
 C:/msys64/mingw64/include/crtdefs.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_quit.h:
-
 C:/msys64/mingw64/include/c++/12.2.0/typeinfo:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/sstream.tcc:
+
+SDL/include/SDL_clipboard.h:
 
 C:/msys64/mingw64/include/intrin.h:
 
@@ -2067,6 +2063,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512erintrin.h:
 C:/msys64/mingw64/include/c++/12.2.0/type_traits:
 
 _deps/eigen-src/Eigen/src/Core/MathFunctionsImpl.h:
+
+SDL/include/SDL_joystick.h:
 
 C:/msys64/mingw64/include/locale.h:
 
@@ -2116,11 +2114,7 @@ C:/msys64/mingw64/include/sys/types.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/basic_ios.tcc:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_error.h:
-
 _deps/eigen-src/Eigen/src/Core/products/TriangularSolverMatrix.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_version.h:
 
 C:/msys64/mingw64/include/process.h:
 
@@ -2156,8 +2150,6 @@ C:/msys64/mingw64/include/c++/12.2.0/numeric:
 
 C:/msys64/mingw64/include/pthread_time.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_messagebox.h:
-
 C:/msys64/mingw64/include/c++/12.2.0/bits/range_access.h:
 
 C:/msys64/mingw64/include/pthread_compat.h:
@@ -2174,13 +2166,13 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/locale_classes.h:
 
 C:/msys64/mingw64/include/wctype.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_rect.h:
-
 C:/msys64/mingw64/include/c++/12.2.0/string:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/allocator.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++allocator.h:
+
+SDL/include/SDL_keycode.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/functexcept.h:
 
@@ -2204,9 +2196,9 @@ _deps/eigen-src/Eigen/src/Core/Reshaped.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/stl_iterator.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512bitalgintrin.h:
-
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/prfchwintrin.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512bitalgintrin.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/ext/type_traits.h:
 
@@ -2245,6 +2237,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/x86gprintrin.h:
 C:/msys64/mingw64/include/c++/12.2.0/bits/invoke.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/error_constants.h:
+
+SDL/include/SDL_mutex.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/initializer_list:
 
@@ -2310,6 +2304,8 @@ C:/msys64/mingw64/include/c++/12.2.0/system_error:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/unordered_map.h:
 
+SDL/include/SDL_misc.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/stdexcept:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512vlbwintrin.h:
@@ -2322,7 +2318,7 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/fma4intrin.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/streambuf.tcc:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_gamecontroller.h:
+C:/msys64/mingw64/include/strings.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/adxintrin.h:
 
@@ -2356,6 +2352,8 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/specfun.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/limits:
 
+SDL/include/SDL_rwops.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/tr1/special_function_util.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/tr1/bessel_function.tcc:
@@ -2383,6 +2381,8 @@ _deps/eigen-src/Eigen/src/Core/arch/SSE/MathFunctions.h:
 C:/msys64/mingw64/include/c++/12.2.0/tr1/modified_bessel_func.tcc:
 
 C:/msys64/mingw64/include/c++/12.2.0/ext/concurrence.h:
+
+SDL/include/SDL_keyboard.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/tr1/poly_hermite.tcc:
 
@@ -2440,8 +2440,6 @@ _deps/eigen-src/Eigen/src/Core/GlobalFunctions.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/cassert:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_main.h:
-
 C:/msys64/mingw64/include/assert.h:
 
 _deps/eigen-src/Eigen/LU:
@@ -2466,13 +2464,9 @@ _deps/eigen-src/Eigen/src/SVD/UpperBidiagonalization.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/unordered_map:
 
-SDL2_gfx/SDL-2.24.2/include/close_code.h:
-
 C:/msys64/mingw64/include/c++/12.2.0/ext/aligned_buffer.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/hashtable.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_filesystem.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/hashtable_policy.h:
 
@@ -2481,8 +2475,6 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/enable_special_members.h:
 C:/msys64/mingw64/include/c++/12.2.0/bits/node_handle.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/erase_if.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_scancode.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/vector:
 
@@ -2528,7 +2520,7 @@ C:/msys64/mingw64/include/c++/12.2.0/climits:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/atomic_lockfree_defines.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_config.h:
+SDL/include/SDL_main.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/algorithm:
 
@@ -2536,21 +2528,19 @@ _deps/eigen-src/Eigen/src/Core/Redux.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/lzcntintrin.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_log.h:
-
 C:/msys64/mingw64/include/c++/12.2.0/pstl/execution_defs.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_clipboard.h:
+SDL/include/SDL.h:
 
 _deps/eigen-src/Eigen/src/Core/util/Constants.h:
-
-_deps/eigen-src/Eigen/src/Core/Transpositions.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm3dnow.h:
 
 _deps/eigen-src/Eigen/src/Core/util/Meta.h:
 
-SDL2_gfx/SDL-2.24.2/include/begin_code.h:
+SDL/include/SDL_stdinc.h:
+
+_deps/eigen-src/Eigen/src/Core/Transpositions.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512vpopcntdqvlintrin.h:
 
@@ -2584,9 +2574,13 @@ _deps/eigen-src/Eigen/src/Core/arch/Default/Half.h:
 
 _deps/eigen-src/Eigen/src/Core/arch/Default/TypeCasting.h:
 
+SDL/include/SDL_cpuinfo.h:
+
 _deps/eigen-src/Eigen/src/Core/arch/SSE/PacketMath.h:
 
 _deps/eigen-src/Eigen/src/Core/ArrayWrapper.h:
+
+SDL/include/SDL_guid.h:
 
 _deps/eigen-src/Eigen/src/Core/arch/SSE/TypeCasting.h:
 
@@ -2595,6 +2589,8 @@ _deps/eigen-src/Eigen/src/Core/arch/SSE/Complex.h:
 _deps/eigen-src/Eigen/src/Core/arch/Default/Settings.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/shared_ptr_base.h:
+
+SDL/include/SDL_power.h:
 
 _deps/eigen-src/Eigen/src/Core/TriangularMatrix.h:
 
@@ -2614,8 +2610,6 @@ _deps/eigen-src/Eigen/src/Geometry/RotationBase.h:
 
 _deps/eigen-src/Eigen/src/Core/functors/AssignmentFunctors.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_metal.h:
-
 _deps/eigen-src/Eigen/src/Core/util/IndexedViewHelper.h:
 
 _deps/eigen-src/Eigen/src/Core/util/ReshapedHelper.h:
@@ -2628,7 +2622,7 @@ _deps/eigen-src/Eigen/src/Core/IO.h:
 
 _deps/eigen-src/Eigen/SVD:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_locale.h:
+SDL/include/SDL_events.h:
 
 _deps/eigen-src/Eigen/src/Core/DenseBase.h:
 
@@ -2639,6 +2633,8 @@ _deps/eigen-src/Eigen/src/plugins/BlockMethods.h:
 _deps/eigen-src/Eigen/src/plugins/IndexedViewMethods.h:
 
 _deps/eigen-src/Eigen/src/plugins/ReshapedMethods.h:
+
+SDL/include/SDL_touch.h:
 
 _deps/eigen-src/Eigen/src/plugins/CommonCwiseBinaryOps.h:
 
@@ -2654,11 +2650,11 @@ _deps/eigen-src/Eigen/src/Core/CoreEvaluators.h:
 
 _deps/eigen-src/Eigen/src/Core/AssignEvaluator.h:
 
+SDL/include/begin_code.h:
+
 _deps/eigen-src/Eigen/src/Core/ArrayBase.h:
 
 _deps/eigen-src/Eigen/src/plugins/ArrayCwiseUnaryOps.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_cpuinfo.h:
 
 _deps/eigen-src/Eigen/src/plugins/ArrayCwiseBinaryOps.h:
 
@@ -2680,8 +2676,6 @@ _deps/eigen-src/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h:
 
 _deps/eigen-src/Eigen/src/Core/CwiseTernaryOp.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_power.h:
-
 C:/Users/marop/tp_projekt_3/PlanarQuadrotor/planar_quadrotor.cpp:
 
 _deps/eigen-src/Eigen/src/Core/CwiseBinaryOp.h:
@@ -2698,6 +2692,8 @@ _deps/eigen-src/Eigen/src/Core/Transpose.h:
 
 _deps/eigen-src/Eigen/src/Core/StableNorm.h:
 
+SDL/include/SDL_version.h:
+
 _deps/eigen-src/Eigen/src/Core/Stride.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/clwbintrin.h:
@@ -2709,8 +2705,6 @@ _deps/eigen-src/Eigen/src/Geometry/AngleAxis.h:
 _deps/eigen-src/Eigen/src/Core/Ref.h:
 
 _deps/eigen-src/Eigen/src/Core/Block.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_audio.h:
 
 _deps/eigen-src/Eigen/src/Core/VectorBlock.h:
 
@@ -2774,6 +2768,8 @@ _deps/eigen-src/Eigen/src/Core/Random.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512vp2intersectvlintrin.h:
 
+SDL/include/SDL_sensor.h:
+
 _deps/eigen-src/Eigen/Cholesky:
 
 _deps/eigen-src/Eigen/src/Core/util/ReenableStupidWarnings.h:
@@ -2799,8 +2795,6 @@ _deps/eigen-src/Eigen/src/Householder/BlockHouseholder.h:
 _deps/eigen-src/Eigen/src/QR/HouseholderQR.h:
 
 _deps/eigen-src/Eigen/src/QR/CompleteOrthogonalDecomposition.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_rwops.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/cetintrin.h:
 
@@ -2844,9 +2838,9 @@ _deps/eigen-src/Eigen/src/Eigenvalues/ComplexEigenSolver.h:
 
 _deps/eigen-src/Eigen/src/Eigenvalues/RealQZ.h:
 
-C:/msys64/mingw64/include/winsdkver.h:
-
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512pfintrin.h:
+
+SDL/include/SDL_hints.h:
 
 _deps/eigen-src/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h:
 
@@ -2859,6 +2853,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/serializeintrin.h:
 C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/opt_random.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/random.tcc:
+
+SDL/include/SDL_scancode.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/stl_numeric.h:
 
@@ -2876,27 +2872,35 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/unique_ptr.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdarg.h:
 
+SDL/include/SDL_gesture.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/bits/shared_ptr.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/allocated_ptr.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/backward/auto_ptr.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_stdinc.h:
+SDL/include-config-release/SDL_config.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_platform.h:
+SDL/include/SDL_platform.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_config_windows.h:
+C:/msys64/mingw64/include/inttypes.h:
 
-C:/msys64/mingw64/include/sdkddkver.h:
+C:/msys64/mingw64/include/c++/12.2.0/math.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_assert.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/float.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_atomic.h:
+SDL/include/SDL_assert.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_mutex.h:
+SDL/include/SDL_atomic.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_thread.h:
+SDL/include/SDL_audio.h:
+
+SDL/include/SDL_error.h:
+
+SDL/include/SDL_endian.h:
+
+SDL/include/SDL_thread.h:
 
 C:/msys64/mingw64/include/psdk_inc/intrin-impl.h:
 
@@ -2918,6 +2922,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/rdseedintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/wmmintrin.h:
 
+SDL/include/SDL_quit.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/rtmintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/sgxintrin.h:
@@ -2933,6 +2939,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/xsavesintrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/immintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avxvnniintrin.h:
+
+SDL/include/SDL_rect.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512dqintrin.h:
 
@@ -2962,45 +2970,39 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/xopintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/cpuid.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_events.h:
+SDL/include/SDL_video.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_video.h:
+SDL/include/SDL_pixels.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_pixels.h:
+SDL/include/SDL_surface.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_surface.h:
+SDL/include/SDL_blendmode.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_keyboard.h:
+SDL/include/SDL_mouse.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_keycode.h:
+SDL/include/SDL_gamecontroller.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_mouse.h:
+SDL/include/SDL_filesystem.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_guid.h:
+SDL/include/SDL_hidapi.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_sensor.h:
+SDL/include/SDL_loadso.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_gesture.h:
+SDL/include/SDL_log.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_touch.h:
+SDL/include/SDL_messagebox.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_haptic.h:
+SDL/include/SDL_metal.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_hidapi.h:
+SDL/include/SDL_render.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_hints.h:
+SDL/include/SDL_shape.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_render.h:
+SDL/include/SDL_system.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_shape.h:
+SDL/include/SDL_timer.h:
 
-SDL2_gfx/SDL-2.24.2/include/SDL_system.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_timer.h:
-
-SDL2_gfx/SDL-2.24.2/include/SDL_misc.h:
-
-C:/msys64/mingw64/include/c++/12.2.0/math.h:
+SDL/include/SDL_locale.h:
 
 C:/Users/marop/tp_projekt_3/PlanarQuadrotor/simulate.cpp:
 
