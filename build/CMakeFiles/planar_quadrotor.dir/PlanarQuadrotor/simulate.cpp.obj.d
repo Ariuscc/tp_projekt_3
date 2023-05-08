@@ -394,31 +394,30 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/simulate.cpp.obj: \
  C:/Users/marop/tp_projekt_3/build/_deps/eigen-src/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h \
  C:/Users/marop/tp_projekt_3/build/_deps/eigen-src/Eigen/src/Eigenvalues/RealQZ.h \
  C:/Users/marop/tp_projekt_3/build/_deps/eigen-src/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_main.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_stdinc.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_main.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_stdinc.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_config.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_platform.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/begin_code.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/close_code.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_config_windows.h \
+ C:/msys64/mingw64/include/winsdkver.h \
+ C:/msys64/mingw64/include/winapifamily.h \
+ C:/msys64/mingw64/include/sdkddkver.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
- C:/msys64/mingw64/include/strings.h C:/msys64/mingw64/include/inttypes.h \
- C:/msys64/mingw64/include/c++/12.2.0/math.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/float.h \
- C:/msys64/mingw64/include/float.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_assert.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_atomic.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_audio.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_error.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_endian.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_mutex.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_thread.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_rwops.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_clipboard.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_cpuinfo.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_assert.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_atomic.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_audio.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_error.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_endian.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_mutex.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_thread.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_rwops.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_clipboard.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_cpuinfo.h \
  C:/msys64/mingw64/include/intrin.h C:/msys64/mingw64/include/setjmp.h \
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/x86intrin.h \
@@ -507,40 +506,41 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/simulate.cpp.obj: \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/ammintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/xopintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/cpuid.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_events.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_video.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_pixels.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_rect.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_surface.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_blendmode.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_keyboard.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_keycode.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_scancode.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_mouse.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_joystick.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_guid.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_gamecontroller.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_sensor.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_quit.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_gesture.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_touch.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_filesystem.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_haptic.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_hidapi.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_hints.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_loadso.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_log.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_messagebox.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_metal.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_power.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_render.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_shape.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_system.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_timer.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_version.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_locale.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_misc.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_events.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_video.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_pixels.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_rect.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_surface.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_blendmode.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_keyboard.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_keycode.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_scancode.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_mouse.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_joystick.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_guid.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_gamecontroller.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_sensor.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_quit.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_gesture.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_touch.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_filesystem.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_haptic.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_hidapi.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_hints.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_loadso.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_log.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_messagebox.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_metal.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_power.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_render.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_shape.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_system.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_timer.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_version.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_locale.h \
+ C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_misc.h \
  C:/Users/marop/tp_projekt_3/SDL2_gfx/SDL2_gfxPrimitives.h \
+ C:/msys64/mingw64/include/c++/12.2.0/math.h \
  C:\Users\marop\tp_projekt_3\PlanarQuadrotor\planar_quadrotor.h \
  C:\Users\marop\tp_projekt_3\PlanarQuadrotor\lqr.h \
  C:\Users\marop\tp_projekt_3\PlanarQuadrotor\planar_quadrotor_visualizer.h
