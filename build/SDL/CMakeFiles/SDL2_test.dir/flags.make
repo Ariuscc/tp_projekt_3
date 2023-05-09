@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = @CMakeFiles/SDL2_test.dir/includes_C.rsp
 
-C_FLAGS =  -idirafter "C:/Users/marop/tp_projekt_3/SDL/src/video/khronos"  -Wall -fno-strict-aliasing -Wdeclaration-after-statement -fvisibility=hidden -Wshadow -mmmx -m3dnow -msse -msse2 -msse3  -DSDL_BUILD_MAJOR_VERSION=2 -DSDL_BUILD_MINOR_VERSION=27 -DSDL_BUILD_MICRO_VERSION=0 -O3 -DNDEBUG
+C_FLAGS =  -idirafter "C:/Users/marop/tp_projekt_3/SDL/src/video/khronos"  -Wall -fno-strict-aliasing -Wdeclaration-after-statement -fvisibility=hidden -Wshadow -mmmx -m3dnow -msse -msse2 -msse3  -DSDL_BUILD_MAJOR_VERSION=2 -DSDL_BUILD_MINOR_VERSION=27 -DSDL_BUILD_MICRO_VERSION=0 -g -gdwarf-4
 

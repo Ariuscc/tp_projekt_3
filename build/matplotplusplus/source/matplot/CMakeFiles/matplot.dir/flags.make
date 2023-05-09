@@ -6,5 +6,5 @@ CXX_DEFINES = -DMATPLOT_BUILD_HIGH_RESOLUTION_WORLD_MAP -DNOMINMAX -Dcimg_displa
 
 CXX_INCLUDES = @CMakeFiles/matplot.dir/includes_CXX.rsp
 
-CXX_FLAGS =  -O2 -O3 -DNDEBUG -std=gnu++17
+CXX_FLAGS =  -Og -g -std=gnu++17
 

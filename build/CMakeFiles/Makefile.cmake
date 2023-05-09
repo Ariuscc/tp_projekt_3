@@ -119,7 +119,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "SDL/sdl2-config"
   "SDL/SDL2.spec"
   "SDL/cmake_uninstall.cmake"
-  "SDL/include-config-release/SDL_config.h"
+  "SDL/include-config-debug/SDL_config.h"
   "SDL/CMakeFiles/CMakeDirectoryInformation.cmake"
   "SDL2_gfx/sdl2-subbuild/CMakeLists.txt"
   "SDL2_gfx/CMakeFiles/CMakeDirectoryInformation.cmake"

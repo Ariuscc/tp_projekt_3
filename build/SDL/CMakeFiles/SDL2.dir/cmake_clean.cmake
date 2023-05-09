@@ -384,10 +384,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/SDL2.dir/src/video/windows/SDL_windowswindow.c.obj.d"
   "CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb.c.obj"
   "CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb.c.obj.d"
-  "SDL2.dll"
-  "SDL2.dll.manifest"
-  "SDL2.pdb"
-  "libSDL2.dll.a"
+  "SDL2d.dll"
+  "SDL2d.dll.manifest"
+  "SDL2d.pdb"
+  "libSDL2d.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

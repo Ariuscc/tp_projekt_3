@@ -144,8 +144,8 @@ planar_quadrotor.exe: CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/planar_qua
 planar_quadrotor.exe: CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/lqr.cpp.obj
 planar_quadrotor.exe: CMakeFiles/planar_quadrotor.dir/build.make
 planar_quadrotor.exe: SDL2_gfx/libSDL2_gfx.a
-planar_quadrotor.exe: SDL/libSDL2main.a
-planar_quadrotor.exe: SDL/libSDL2.dll.a
+planar_quadrotor.exe: SDL/libSDL2maind.a
+planar_quadrotor.exe: SDL/libSDL2d.dll.a
 planar_quadrotor.exe: SDL2_gfx/libSDL2_gfx.a
 planar_quadrotor.exe: matplotplusplus/source/matplot/libmatplot.a
 planar_quadrotor.exe: matplotplusplus/source/3rd_party/libnodesoup.a

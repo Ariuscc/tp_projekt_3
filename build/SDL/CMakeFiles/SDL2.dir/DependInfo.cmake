@@ -20,7 +20,7 @@ set(CMAKE_TARGET_DEFINITIONS_RC
 # The include file search paths:
 set(CMAKE_RC_TARGET_INCLUDE_PATH
   "SDL/include"
-  "SDL/include-config-release"
+  "SDL/include-config-debug"
   )
 
 # The set of dependency files which are needed:

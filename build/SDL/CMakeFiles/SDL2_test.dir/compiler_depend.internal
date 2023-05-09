@@ -3,7 +3,7 @@
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_assert.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_assert.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -204,7 +204,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_assert.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_common.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_common.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -405,7 +405,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_common.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_compare.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_compare.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -606,7 +606,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_compare.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_crc32.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_crc32.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -807,7 +807,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_crc32.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_font.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_font.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -1008,7 +1008,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_font.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_fuzzer.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_fuzzer.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -1209,7 +1209,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_fuzzer.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_harness.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_harness.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -1415,7 +1415,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_harness.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageBlit.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_imageBlit.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -1616,7 +1616,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageBlit.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageBlitBlend.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_imageBlitBlend.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -1817,7 +1817,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageBlitBlend.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageFace.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_imageFace.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -2018,7 +2018,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imageFace.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imagePrimitives.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_imagePrimitives.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -2219,7 +2219,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imagePrimitives.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imagePrimitivesBlend.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_imagePrimitivesBlend.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -2420,7 +2420,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_imagePrimitivesBlend.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_log.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_log.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -2627,7 +2627,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_log.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_md5.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_md5.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -2828,7 +2828,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_md5.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_memory.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_memory.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h
@@ -2879,7 +2879,7 @@ SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_memory.c.obj
 
 SDL/CMakeFiles/SDL2_test.dir/src/test/SDL_test_random.c.obj
  C:/Users/marop/tp_projekt_3/SDL/src/test/SDL_test_random.c
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h

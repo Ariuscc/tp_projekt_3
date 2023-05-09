@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SDL2main.dir/src/main/windows/SDL_windows_main.c.obj"
   "CMakeFiles/SDL2main.dir/src/main/windows/SDL_windows_main.c.obj.d"
-  "libSDL2main.a"
-  "libSDL2main.pdb"
+  "libSDL2maind.a"
+  "libSDL2maind.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

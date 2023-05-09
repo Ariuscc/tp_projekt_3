@@ -6,5 +6,5 @@ CXX_DEFINES = -D_USE_MATH_DEFINES
 
 CXX_INCLUDES = @CMakeFiles/nodesoup.dir/includes_CXX.rsp
 
-CXX_FLAGS =  -O2 -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden
+CXX_FLAGS =  -Og -g -std=gnu++17 -fvisibility=hidden
 

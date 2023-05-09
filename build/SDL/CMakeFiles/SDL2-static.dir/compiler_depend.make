@@ -5,7 +5,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL.c.obj: C:/Users/marop/tp_projekt_3/SDL/sr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -321,7 +321,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL_assert.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -610,7 +610,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL_dataqueue.c.obj: C:/Users/marop/tp_projek
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -803,7 +803,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL_error.c.obj: C:/Users/marop/tp_projekt_3/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -855,7 +855,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL_guid.c.obj: C:/Users/marop/tp_projekt_3/S
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -907,7 +907,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL_hints.c.obj: C:/Users/marop/tp_projekt_3/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -960,7 +960,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL_list.c.obj: C:/Users/marop/tp_projekt_3/S
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -1153,7 +1153,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL_log.c.obj: C:/Users/marop/tp_projekt_3/SD
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -1382,7 +1382,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/SDL_utils.c.obj: C:/Users/marop/tp_projekt_3/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -1433,7 +1433,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/atomic/SDL_atomic.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -1485,7 +1485,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/atomic/SDL_spinlock.c.obj: C:/Users/marop/tp_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -1714,7 +1714,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_audio.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -2001,7 +2001,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiocvt.c.obj: C:/Users/marop/tp_p
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -2200,7 +2200,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiodev.c.obj: C:/Users/marop/tp_p
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -2250,7 +2250,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiotypecvt.c.obj: C:/Users/marop/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -2406,7 +2406,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_mixer.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -2568,7 +2568,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_wave.c.obj: C:/Users/marop/tp_proje
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -2631,7 +2631,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/directsound/SDL_directsound.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -2922,7 +2922,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/disk/SDL_diskaudio.c.obj: C:/Users/maro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -2992,7 +2992,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/dummy/SDL_dummyaudio.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -3061,7 +3061,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/wasapi/SDL_wasapi.c.obj: C:/Users/marop
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -3342,7 +3342,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/wasapi/SDL_wasapi_win32.c.obj: C:/Users
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -3623,7 +3623,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/audio/winmm/SDL_winmm.c.obj: C:/Users/marop/t
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -3873,7 +3873,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/core/windows/SDL_hid.c.obj: C:/Users/marop/tp
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -4099,7 +4099,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/core/windows/SDL_immdevice.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -4373,7 +4373,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/core/windows/SDL_windows.c.obj: C:/Users/maro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -4638,7 +4638,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/core/windows/SDL_xinput.c.obj: C:/Users/marop
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -4865,7 +4865,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/cpuinfo/SDL_cpuinfo.c.obj: C:/Users/marop/tp_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -5091,7 +5091,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/cpuinfo/SDL_cpuinfo.c.obj: C:/Users/marop/tp_
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/cpuid.h
 
 SDL/CMakeFiles/SDL2-static.dir/src/dynapi/SDL_dynapi.c.obj: C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.c \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -5362,7 +5362,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_clipboardevents.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -5633,7 +5633,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_displayevents.c.obj: C:/Users/maro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -5904,7 +5904,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_dropevents.c.obj: C:/Users/marop/t
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -6175,7 +6175,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_events.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -6483,7 +6483,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_gesture.c.obj: C:/Users/marop/tp_p
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -6755,7 +6755,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_keyboard.c.obj: C:/Users/marop/tp_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -7030,7 +7030,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_keysym_to_scancode.c.obj: C:/Users
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -7080,7 +7080,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_mouse.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -7356,7 +7356,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_quit.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -7630,7 +7630,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_scancode_tables.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -7680,7 +7680,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_touch.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -7951,7 +7951,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_windowevents.c.obj: C:/Users/marop
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -8223,7 +8223,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/events/imKStoUCS.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -8273,7 +8273,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/file/SDL_rwops.c.obj: C:/Users/marop/tp_proje
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -8500,7 +8500,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/filesystem/windows/SDL_sysfilesystem.c.obj: C
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -8776,7 +8776,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/haptic/SDL_haptic.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -8839,7 +8839,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/haptic/windows/SDL_dinputhaptic.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -9172,7 +9172,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/haptic/windows/SDL_windowshaptic.c.obj: C:/Us
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -9481,7 +9481,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/haptic/windows/SDL_xinputhaptic.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -9821,7 +9821,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/hidapi/SDL_hidapi.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -10069,7 +10069,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/SDL_gamecontroller.c.obj: C:/Users/m
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -10351,7 +10351,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/SDL_joystick.c.obj: C:/Users/marop/t
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -10669,7 +10669,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/controller_type.c.obj: C:/Users/maro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -10728,7 +10728,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_combined.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -10796,7 +10796,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_gamecube.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -10886,7 +10886,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_luna.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -10970,7 +10970,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps3.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11057,7 +11057,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps4.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11144,7 +11144,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps5.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11231,7 +11231,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_rumble.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11482,7 +11482,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_shield.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11567,7 +11567,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_stadia.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11651,7 +11651,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_steam.c.obj: C:/Us
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11738,7 +11738,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_switch.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11826,7 +11826,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_wii.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -11914,7 +11914,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xbox360.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -12001,7 +12001,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xbox360w.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -12088,7 +12088,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xboxone.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -12175,7 +12175,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapijoystick.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -12423,7 +12423,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/virtual/SDL_virtualjoystick.c.obj: C
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -12487,7 +12487,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_dinputjoystick.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -12789,7 +12789,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_rawinputjoystick.c.obj: 
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -13095,7 +13095,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_windows_gaming_input.c.o
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -13399,7 +13399,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_windowsjoystick.c.obj: C
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -13718,7 +13718,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_xinputjoystick.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14020,7 +14020,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/e_atan2.c.obj: C:/Users/marop/tp_projekt
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14073,7 +14073,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/e_exp.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14126,7 +14126,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/e_fmod.c.obj: C:/Users/marop/tp_projekt_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14179,7 +14179,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/e_log.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14232,7 +14232,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/e_log10.c.obj: C:/Users/marop/tp_projekt
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14285,7 +14285,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/e_pow.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14338,7 +14338,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/e_rem_pio2.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14391,7 +14391,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/e_sqrt.c.obj: C:/Users/marop/tp_projekt_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14444,7 +14444,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/k_cos.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14497,7 +14497,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/k_rem_pio2.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14550,7 +14550,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/k_sin.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14603,7 +14603,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/k_tan.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14656,7 +14656,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/s_atan.c.obj: C:/Users/marop/tp_projekt_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14709,7 +14709,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/s_copysign.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14762,7 +14762,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/s_cos.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14815,7 +14815,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/s_fabs.c.obj: C:/Users/marop/tp_projekt_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14868,7 +14868,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/s_floor.c.obj: C:/Users/marop/tp_projekt
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14921,7 +14921,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/s_scalbn.c.obj: C:/Users/marop/tp_projek
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -14974,7 +14974,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/s_sin.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -15027,7 +15027,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/libm/s_tan.c.obj: C:/Users/marop/tp_projekt_3
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -15079,7 +15079,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/loadso/windows/SDL_sysloadso.c.obj: C:/Users/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -15305,7 +15305,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/locale/SDL_locale.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -15359,7 +15359,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/locale/windows/SDL_syslocale.c.obj: C:/Users/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -15587,7 +15587,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/misc/SDL_url.c.obj: C:/Users/marop/tp_projekt
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -15640,7 +15640,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/misc/windows/SDL_sysurl.c.obj: C:/Users/marop
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -15868,7 +15868,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/power/SDL_power.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -15920,7 +15920,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/power/windows/SDL_syspower.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -16146,7 +16146,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/SDL_d3dmath.c.obj: C:/Users/marop/tp_p
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -16198,7 +16198,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/SDL_render.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -16377,7 +16377,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/SDL_yuv_sw.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -16533,7 +16533,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d/SDL_render_d3d.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -16857,7 +16857,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d/SDL_shaders_d3d.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -17120,7 +17120,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d11/SDL_render_d3d11.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -17449,7 +17449,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d11/SDL_shaders_d3d11.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -17723,7 +17723,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d12/SDL_render_d3d12.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -18045,7 +18045,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d12/SDL_shaders_d3d12.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -18305,7 +18305,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/opengl/SDL_render_gl.c.obj: C:/Users/m
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -18576,7 +18576,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/opengl/SDL_shaders_gl.c.obj: C:/Users/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -18806,7 +18806,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/opengles/SDL_render_gles.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -18856,7 +18856,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/opengles2/SDL_render_gles2.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -19136,7 +19136,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/opengles2/SDL_shaders_gles2.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -19202,7 +19202,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/ps2/SDL_render_ps2.c.obj: C:/Users/mar
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -19252,7 +19252,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/psp/SDL_render_psp.c.obj: C:/Users/mar
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -19302,7 +19302,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendfillrect.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -19459,7 +19459,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendline.c.obj: C:/Users
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -19617,7 +19617,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendpoint.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -19774,7 +19774,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_drawline.c.obj: C:/Users/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -19932,7 +19932,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_drawpoint.c.obj: C:/Users
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -20089,7 +20089,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_render_sw.c.obj: C:/Users
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -20275,7 +20275,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_rotate.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -20548,7 +20548,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_triangle.c.obj: C:/Users/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -20704,7 +20704,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -20754,7 +20754,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm_memory.c.o
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -20804,7 +20804,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm_tools.c.ob
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -20854,7 +20854,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/sensor/SDL_sensor.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21157,7 +21157,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/sensor/windows/SDL_windowssensor.c.obj: C:/Us
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21423,7 +21423,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_crc16.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21474,7 +21474,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_crc32.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21525,7 +21525,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_getenv.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21751,7 +21751,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_iconv.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21803,7 +21803,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_malloc.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21857,7 +21857,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_mslibc.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21907,7 +21907,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_qsort.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -21958,7 +21958,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_stdlib.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -22011,7 +22011,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_string.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -22063,7 +22063,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_strtokr.c.obj: C:/Users/marop/tp_p
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -22114,7 +22114,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/thread/SDL_thread.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -22352,7 +22352,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/thread/generic/SDL_syscond.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -22411,7 +22411,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_syscond_cv.c.obj: C:/Users
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -22647,7 +22647,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_sysmutex.c.obj: C:/Users/m
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -22875,7 +22875,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_syssem.c.obj: C:/Users/mar
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -23108,7 +23108,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_systhread.c.obj: C:/Users/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -23349,7 +23349,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_systls.c.obj: C:/Users/mar
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -23587,7 +23587,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/timer/SDL_timer.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -23832,7 +23832,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/timer/windows/SDL_systimer.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -24068,7 +24068,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_RLEaccel.c.obj: C:/Users/marop/tp_p
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -24323,7 +24323,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit.c.obj: C:/Users/marop/tp_proje
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -24582,7 +24582,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_0.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -24738,7 +24738,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_1.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -24992,7 +24992,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_A.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -25148,7 +25148,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_N.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -25305,7 +25305,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_auto.c.obj: C:/Users/marop/tp_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -25462,7 +25462,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_copy.c.obj: C:/Users/marop/tp_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -25619,7 +25619,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_slow.c.obj: C:/Users/marop/tp_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -25776,7 +25776,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_bmp.c.obj: C:/Users/marop/tp_projek
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -25934,7 +25934,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_clipboard.c.obj: C:/Users/marop/tp_
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -26181,7 +26181,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_egl.c.obj: C:/Users/marop/tp_projek
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -26437,7 +26437,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_fillrect.c.obj: C:/Users/marop/tp_p
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -26593,7 +26593,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_pixels.c.obj: C:/Users/marop/tp_pro
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -26850,7 +26850,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_rect.c.obj: C:/Users/marop/tp_proje
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -26907,7 +26907,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_shape.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -27197,7 +27197,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_stretch.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -27355,7 +27355,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_surface.c.obj: C:/Users/marop/tp_pr
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -27629,7 +27629,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_video.c.obj: C:/Users/marop/tp_proj
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -27944,7 +27944,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_vulkan_utils.c.obj: C:/Users/marop/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -28181,7 +28181,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_yuv.c.obj: C:/Users/marop/tp_projek
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -28341,7 +28341,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullevents.c.obj: C:/Users/ma
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -28616,7 +28616,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullframebuffer.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -28864,7 +28864,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullvideo.c.obj: C:/Users/mar
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -29150,7 +29150,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenevents.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -29425,7 +29425,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenframebuffer.c.ob
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -29673,7 +29673,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenopengles.c.obj: 
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -29930,7 +29930,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenvideo.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -30190,7 +30190,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenwindow.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -30446,7 +30446,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsclipboard.c.obj: C:/
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -30754,7 +30754,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsevents.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -31094,7 +31094,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsframebuffer.c.obj: C
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -31400,7 +31400,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowskeyboard.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -31712,7 +31712,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsmessagebox.c.obj: C:
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -32018,7 +32018,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsmodes.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -32326,7 +32326,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsmouse.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -32635,7 +32635,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsopengl.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -32944,7 +32944,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsopengles.c.obj: C:/U
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -33250,7 +33250,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsshape.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -33562,7 +33562,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsvideo.c.obj: C:/User
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -33899,7 +33899,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsvulkan.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -34209,7 +34209,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowswindow.c.obj: C:/Use
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -34541,7 +34541,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/video/yuv2rgb/yuv_rgb.c.obj: C:/Users/marop/t
   C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
   C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
-  SDL/include-config-release/SDL_config.h \
+  SDL/include-config-debug/SDL_config.h \
   SDL/include/SDL_platform.h \
   SDL/include/begin_code.h \
   SDL/include/close_code.h \
@@ -34709,14 +34709,6 @@ C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h:
 
 SDL/include/SDL_platform.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h:
-
-C:/Users/marop/tp_projekt_3/SDL/src/render/vitagxm/SDL_render_vita_gxm_memory.c:
-
-C:/Users/marop/tp_projekt_3/SDL/src/audio/SDL_mixer.c:
-
-SDL/include-config-release/SDL_config.h:
-
 C:/msys64/mingw64/include/rpcdcep.h:
 
 C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h:
@@ -34726,6 +34718,16 @@ C:/Users/marop/tp_projekt_3/SDL/src/render/opengl/SDL_shaders_gl.h:
 C:/msys64/mingw64/include/_mingw.h:
 
 SDL/include/begin_code.h:
+
+C:/msys64/mingw64/include/msxml.h:
+
+C:/msys64/mingw64/include/windows.h:
+
+C:/msys64/mingw64/include/_mingw_stdarg.h:
+
+C:/Users/marop/tp_projekt_3/SDL/src/events/scancodes_windows.h:
+
+SDL/include-config-debug/SDL_config.h:
 
 C:/Users/marop/tp_projekt_3/SDL/src/stdlib/SDL_crc16.c:
 
@@ -34829,6 +34831,8 @@ C:/msys64/mingw64/include/malloc.h:
 
 C:/msys64/mingw64/include/objidl.h:
 
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512ifmaintrin.h:
 
 C:/msys64/mingw64/include/errno.h:
@@ -34848,12 +34852,6 @@ C:/msys64/mingw64/include/stddef.h:
 C:/msys64/mingw64/include/stdarg.h:
 
 C:/msys64/mingw64/include/sysinfoapi.h:
-
-C:/msys64/mingw64/include/msxml.h:
-
-C:/msys64/mingw64/include/windows.h:
-
-C:/msys64/mingw64/include/_mingw_stdarg.h:
 
 C:/msys64/mingw64/include/string.h:
 
@@ -35613,6 +35611,10 @@ C:/Users/marop/tp_projekt_3/SDL/src/audio/SDL_audiodev.c:
 
 C:/Users/marop/tp_projekt_3/SDL/src/haptic/windows/SDL_dinputhaptic_c.h:
 
+C:/Users/marop/tp_projekt_3/SDL/src/render/vitagxm/SDL_render_vita_gxm_memory.c:
+
+C:/Users/marop/tp_projekt_3/SDL/src/audio/SDL_mixer.c:
+
 C:/Users/marop/tp_projekt_3/SDL/src/audio/SDL_wave.c:
 
 C:/Users/marop/tp_projekt_3/SDL/src/core/windows/SDL_directx.h:
@@ -36138,8 +36140,6 @@ C:/Users/marop/tp_projekt_3/SDL/src/video/offscreen/SDL_offscreenvideo.c:
 C:/Users/marop/tp_projekt_3/SDL/src/video/offscreen/SDL_offscreenwindow.c:
 
 C:/Users/marop/tp_projekt_3/SDL/src/video/windows/SDL_windowsevents.c:
-
-C:/Users/marop/tp_projekt_3/SDL/src/events/scancodes_windows.h:
 
 C:/msys64/mingw64/include/windowsx.h:
 

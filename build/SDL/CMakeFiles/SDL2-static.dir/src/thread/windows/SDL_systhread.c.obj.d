@@ -3,7 +3,7 @@ SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_systhread.c.obj: \
  C:/Users/marop/tp_projekt_3/SDL/src/SDL_internal.h \
  C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi.h \
  C:/Users/marop/tp_projekt_3/SDL/src/dynapi/SDL_dynapi_overrides.h \
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h \
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h \
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h \
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h \
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h \

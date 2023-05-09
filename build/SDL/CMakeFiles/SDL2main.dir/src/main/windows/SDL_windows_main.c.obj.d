@@ -1,6 +1,6 @@
 SDL/CMakeFiles/SDL2main.dir/src/main/windows/SDL_windows_main.c.obj: \
  C:\Users\marop\tp_projekt_3\SDL\src\main\windows\SDL_windows_main.c \
- C:/Users/marop/tp_projekt_3/build/SDL/include-config-release/SDL_config.h \
+ C:/Users/marop/tp_projekt_3/build/SDL/include-config-debug/SDL_config.h \
  C:/Users/marop/tp_projekt_3/build/SDL/include/SDL_platform.h \
  C:/Users/marop/tp_projekt_3/build/SDL/include/begin_code.h \
  C:/Users/marop/tp_projekt_3/build/SDL/include/close_code.h \
