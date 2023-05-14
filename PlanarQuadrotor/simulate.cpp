@@ -102,7 +102,10 @@ int main(int argc, char* args[])
                         goal_state << x, y, 0, 0, 0, 0;
                         quadrotor.SetGoal(goal_state);
                 }
-                
+                else if (e.type == SDL_SCANCODE_P)
+                {
+                    
+                }
             }
 
             SDL_Delay((int) dt * 1000);
