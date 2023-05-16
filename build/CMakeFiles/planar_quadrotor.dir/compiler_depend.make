@@ -1893,7 +1893,208 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/simulate.cpp.obj: C:/Users/marop
   C:/msys64/mingw64/include/c++/12.2.0/math.h \
   C:/Users/marop/tp_projekt_3/PlanarQuadrotor/planar_quadrotor.h \
   C:/Users/marop/tp_projekt_3/PlanarQuadrotor/lqr.h \
-  C:/Users/marop/tp_projekt_3/PlanarQuadrotor/planar_quadrotor_visualizer.h
+  C:/Users/marop/tp_projekt_3/PlanarQuadrotor/planar_quadrotor_visualizer.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/matplot.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/common.h \
+  C:/msys64/mingw64/include/c++/12.2.0/map \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/stl_tree.h \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/stl_map.h \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/stl_multimap.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/concepts.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/handle_types.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/type_traits.h \
+  C:/msys64/mingw64/include/c++/12.2.0/numeric \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/stl_numeric.h \
+  C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_numeric_defs.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/geodata.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/backend/backend_interface.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/backend/backend_registry.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/backend/gnuplot.h \
+  C:/msys64/mingw64/include/c++/12.2.0/chrono \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/chrono.h \
+  C:/msys64/mingw64/include/c++/12.2.0/ratio \
+  C:/msys64/mingw64/include/c++/12.2.0/ctime \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/parse_numbers.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/axes_type.h \
+  C:/msys64/mingw64/include/c++/12.2.0/optional \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/colors.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/keywords.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/axis_type.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/legend.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/line_spec.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/error_bar.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/line.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/axes_object.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/figure_type.h \
+  C:/msys64/mingw64/include/c++/12.2.0/fstream \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/codecvt.h \
+  C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/basic_file.h \
+  C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++io.h \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/fstream.tcc \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/popen.h \
+  C:/msys64/mingw64/include/windows.h \
+  C:/msys64/mingw64/include/excpt.h \
+  C:/msys64/mingw64/include/windef.h \
+  C:/msys64/mingw64/include/minwindef.h \
+  C:/msys64/mingw64/include/specstrings.h \
+  C:/msys64/mingw64/include/sal.h \
+  C:/msys64/mingw64/include/concurrencysal.h \
+  C:/msys64/mingw64/include/driverspecs.h \
+  C:/msys64/mingw64/include/winnt.h \
+  C:/msys64/mingw64/include/_mingw_unicode.h \
+  C:/msys64/mingw64/include/apiset.h \
+  C:/msys64/mingw64/include/basetsd.h \
+  C:/msys64/mingw64/include/guiddef.h \
+  C:/msys64/mingw64/include/pshpack4.h \
+  C:/msys64/mingw64/include/poppack.h \
+  C:/msys64/mingw64/include/pshpack4.h \
+  C:/msys64/mingw64/include/pshpack2.h \
+  C:/msys64/mingw64/include/poppack.h \
+  C:/msys64/mingw64/include/pshpack2.h \
+  C:/msys64/mingw64/include/pshpack8.h \
+  C:/msys64/mingw64/include/pshpack8.h \
+  C:/msys64/mingw64/include/ktmtypes.h \
+  C:/msys64/mingw64/include/winbase.h \
+  C:/msys64/mingw64/include/apisetcconv.h \
+  C:/msys64/mingw64/include/minwinbase.h \
+  C:/msys64/mingw64/include/bemapiset.h \
+  C:/msys64/mingw64/include/debugapi.h \
+  C:/msys64/mingw64/include/errhandlingapi.h \
+  C:/msys64/mingw64/include/fibersapi.h \
+  C:/msys64/mingw64/include/fileapi.h \
+  C:/msys64/mingw64/include/handleapi.h \
+  C:/msys64/mingw64/include/heapapi.h \
+  C:/msys64/mingw64/include/ioapiset.h \
+  C:/msys64/mingw64/include/interlockedapi.h \
+  C:/msys64/mingw64/include/jobapi.h \
+  C:/msys64/mingw64/include/libloaderapi.h \
+  C:/msys64/mingw64/include/memoryapi.h \
+  C:/msys64/mingw64/include/namedpipeapi.h \
+  C:/msys64/mingw64/include/namespaceapi.h \
+  C:/msys64/mingw64/include/processenv.h \
+  C:/msys64/mingw64/include/processthreadsapi.h \
+  C:/msys64/mingw64/include/processtopologyapi.h \
+  C:/msys64/mingw64/include/profileapi.h \
+  C:/msys64/mingw64/include/realtimeapiset.h \
+  C:/msys64/mingw64/include/securityappcontainer.h \
+  C:/msys64/mingw64/include/securitybaseapi.h \
+  C:/msys64/mingw64/include/synchapi.h \
+  C:/msys64/mingw64/include/sysinfoapi.h \
+  C:/msys64/mingw64/include/systemtopologyapi.h \
+  C:/msys64/mingw64/include/threadpoolapiset.h \
+  C:/msys64/mingw64/include/threadpoollegacyapiset.h \
+  C:/msys64/mingw64/include/utilapiset.h \
+  C:/msys64/mingw64/include/wow64apiset.h \
+  C:/msys64/mingw64/include/winerror.h \
+  C:/msys64/mingw64/include/fltwinerror.h \
+  C:/msys64/mingw64/include/timezoneapi.h \
+  C:/msys64/mingw64/include/wingdi.h \
+  C:/msys64/mingw64/include/pshpack1.h \
+  C:/msys64/mingw64/include/winuser.h \
+  C:/msys64/mingw64/include/tvout.h \
+  C:/msys64/mingw64/include/winnls.h \
+  C:/msys64/mingw64/include/datetimeapi.h \
+  C:/msys64/mingw64/include/stringapiset.h \
+  C:/msys64/mingw64/include/wincon.h \
+  C:/msys64/mingw64/include/winver.h \
+  C:/msys64/mingw64/include/winreg.h \
+  C:/msys64/mingw64/include/reason.h \
+  C:/msys64/mingw64/include/winnetwk.h \
+  C:/msys64/mingw64/include/wnnc.h \
+  C:/msys64/mingw64/include/virtdisk.h \
+  C:/msys64/mingw64/include/cderr.h \
+  C:/msys64/mingw64/include/dde.h \
+  C:/msys64/mingw64/include/ddeml.h \
+  C:/msys64/mingw64/include/dlgs.h \
+  C:/msys64/mingw64/include/lzexpand.h \
+  C:/msys64/mingw64/include/mmsystem.h \
+  C:/msys64/mingw64/include/mmsyscom.h \
+  C:/msys64/mingw64/include/mciapi.h \
+  C:/msys64/mingw64/include/mmiscapi.h \
+  C:/msys64/mingw64/include/mmiscapi2.h \
+  C:/msys64/mingw64/include/playsoundapi.h \
+  C:/msys64/mingw64/include/mmeapi.h \
+  C:/msys64/mingw64/include/timeapi.h \
+  C:/msys64/mingw64/include/joystickapi.h \
+  C:/msys64/mingw64/include/nb30.h \
+  C:/msys64/mingw64/include/rpc.h \
+  C:/msys64/mingw64/include/rpcdce.h \
+  C:/msys64/mingw64/include/rpcdcep.h \
+  C:/msys64/mingw64/include/rpcnsi.h \
+  C:/msys64/mingw64/include/rpcnterr.h \
+  C:/msys64/mingw64/include/rpcasync.h \
+  C:/msys64/mingw64/include/shellapi.h \
+  C:/msys64/mingw64/include/winperf.h \
+  C:/msys64/mingw64/include/winsock.h \
+  C:/msys64/mingw64/include/_bsd_types.h \
+  C:/msys64/mingw64/include/inaddr.h \
+  C:/msys64/mingw64/include/psdk_inc/_socket_types.h \
+  C:/msys64/mingw64/include/psdk_inc/_fd_types.h \
+  C:/msys64/mingw64/include/psdk_inc/_ip_types.h \
+  C:/msys64/mingw64/include/psdk_inc/_ip_mreq1.h \
+  C:/msys64/mingw64/include/psdk_inc/_wsadata.h \
+  C:/msys64/mingw64/include/psdk_inc/_xmitfile.h \
+  C:/msys64/mingw64/include/psdk_inc/_wsa_errnos.h \
+  C:/msys64/mingw64/include/wincrypt.h \
+  C:/msys64/mingw64/include/bcrypt.h \
+  C:/msys64/mingw64/include/ncrypt.h \
+  C:/msys64/mingw64/include/dpapi.h \
+  C:/msys64/mingw64/include/winefs.h \
+  C:/msys64/mingw64/include/winscard.h \
+  C:/msys64/mingw64/include/wtypes.h \
+  C:/msys64/mingw64/include/rpcndr.h \
+  C:/msys64/mingw64/include/rpcnsip.h \
+  C:/msys64/mingw64/include/rpcsal.h \
+  C:/msys64/mingw64/include/ole2.h \
+  C:/msys64/mingw64/include/objbase.h \
+  C:/msys64/mingw64/include/combaseapi.h \
+  C:/msys64/mingw64/include/wtypesbase.h \
+  C:/msys64/mingw64/include/unknwnbase.h \
+  C:/msys64/mingw64/include/objidlbase.h \
+  C:/msys64/mingw64/include/cguid.h \
+  C:/msys64/mingw64/include/objidl.h \
+  C:/msys64/mingw64/include/unknwn.h \
+  C:/msys64/mingw64/include/urlmon.h \
+  C:/msys64/mingw64/include/oleidl.h \
+  C:/msys64/mingw64/include/servprov.h \
+  C:/msys64/mingw64/include/msxml.h \
+  C:/msys64/mingw64/include/oaidl.h \
+  C:/msys64/mingw64/include/propidl.h \
+  C:/msys64/mingw64/include/oleauto.h \
+  C:/msys64/mingw64/include/winioctl.h \
+  C:/msys64/mingw64/include/winsmcrd.h \
+  C:/msys64/mingw64/include/winspool.h \
+  C:/msys64/mingw64/include/prsht.h \
+  C:/msys64/mingw64/include/commdlg.h \
+  C:/msys64/mingw64/include/stralign.h \
+  C:/msys64/mingw64/include/sec_api/stralign_s.h \
+  C:/msys64/mingw64/include/winsvc.h \
+  C:/msys64/mingw64/include/mcx.h \
+  C:/msys64/mingw64/include/imm.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/function_line.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/histogram.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/bars.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/box_chart.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/circles.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/contours.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/contourc.h \
+  C:/msys64/mingw64/include/c++/12.2.0/list \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/stl_list.h \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/list.tcc \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/filled_area.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/labels.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/matrix.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/network.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/parallel_lines.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/stair.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/string_function.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/surface.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/vectors.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/axes_functions.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/axes_lim.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/histcounts.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/plot.h \
+  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/figure_registry.h
 
 
 C:/Users/marop/tp_projekt_3/PlanarQuadrotor/lqr.cpp:
@@ -1911,6 +2112,8 @@ C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++config.h:
 C:/Users/marop/tp_projekt_3/PlanarQuadrotor/lqr.h:
 
 _deps/eigen-src/Eigen/src/Core/util/StaticAssert.h:
+
+C:/msys64/mingw64/include/basetsd.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/os_defines.h:
 
@@ -1970,9 +2173,13 @@ C:/msys64/mingw64/include/corecrt_stdio_config.h:
 
 _deps/eigen-src/Eigen/src/Core/DenseCoeffsBase.h:
 
+C:/msys64/mingw64/include/rpcnsi.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/bits/stringfwd.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/memoryfwd.h:
+
+C:/msys64/mingw64/include/excpt.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL.h:
 
@@ -2006,11 +2213,19 @@ C:/msys64/mingw64/include/c++/12.2.0/atomic:
 
 C:/msys64/mingw64/include/_mingw_off_t.h:
 
+C:/msys64/mingw64/include/rpcnterr.h:
+
 C:/msys64/mingw64/include/corecrt_wstdlib.h:
+
+C:/msys64/mingw64/include/ole2.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/bits/stl_multimap.h:
 
 _deps/eigen-src/Eigen/src/Geometry/Transform.h:
 
 C:/msys64/mingw64/include/swprintf.inl:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/keywords.h:
 
 C:/msys64/mingw64/include/winapifamily.h:
 
@@ -2048,9 +2263,13 @@ SDL2_gfx/SDL-2.24.2/include/SDL_quit.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/typeinfo:
 
+C:/msys64/mingw64/include/fileapi.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/bits/sstream.tcc:
 
 C:/msys64/mingw64/include/intrin.h:
+
+C:/msys64/mingw64/include/pshpack8.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/new:
 
@@ -2070,6 +2289,8 @@ _deps/eigen-src/Eigen/src/Core/MathFunctionsImpl.h:
 
 C:/msys64/mingw64/include/locale.h:
 
+C:/msys64/mingw64/include/processthreadsapi.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/fmaintrin.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/nested_exception.h:
@@ -2081,6 +2302,8 @@ C:/msys64/mingw64/include/c++/12.2.0/cstdint:
 C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/ctype_inline.h:
 
 C:/msys64/mingw64/include/stdint.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/figure_registry.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/clocale:
 
@@ -2104,6 +2327,10 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/tmmintrin.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/ext/atomicity.h:
 
+C:/msys64/mingw64/include/c++/12.2.0/list:
+
+C:/msys64/mingw64/include/systemtopologyapi.h:
+
 C:/msys64/mingw64/include/pthread.h:
 
 _deps/eigen-src/Eigen/src/Core/util/DisableStupidWarnings.h:
@@ -2119,6 +2346,8 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/basic_ios.tcc:
 SDL2_gfx/SDL-2.24.2/include/SDL_error.h:
 
 _deps/eigen-src/Eigen/src/Core/products/TriangularSolverMatrix.h:
+
+C:/msys64/mingw64/include/rpcsal.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_version.h:
 
@@ -2136,7 +2365,11 @@ C:/msys64/mingw64/include/corecrt_startup.h:
 
 _deps/eigen-src/Eigen/src/Core/products/GeneralMatrixVector.h:
 
+C:/msys64/mingw64/include/libloaderapi.h:
+
 C:/msys64/mingw64/include/signal.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/circles.h:
 
 C:/msys64/mingw64/include/pthread_signal.h:
 
@@ -2153,6 +2386,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/movdirintrin.h:
 C:/msys64/mingw64/include/_timeval.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/numeric:
+
+C:/msys64/mingw64/include/bemapiset.h:
 
 C:/msys64/mingw64/include/pthread_time.h:
 
@@ -2181,6 +2416,8 @@ C:/msys64/mingw64/include/c++/12.2.0/string:
 C:/msys64/mingw64/include/c++/12.2.0/bits/allocator.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++allocator.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/fstream:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/functexcept.h:
 
@@ -2215,6 +2452,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512cdintrin.h:
 C:/msys64/mingw64/include/c++/12.2.0/bits/ptr_traits.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/hresetintrin.h:
+
+C:/msys64/mingw64/include/winnls.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/stl_function.h:
 
@@ -2256,6 +2495,8 @@ _deps/eigen-src/Eigen/src/Core/DiagonalProduct.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/ext/alloc_traits.h:
 
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/histcounts.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/bits/alloc_traits.h:
 
 _deps/eigen-src/Eigen/src/Core/Replicate.h:
@@ -2288,6 +2529,8 @@ C:/msys64/mingw64/include/sec_api/stdlib_s.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/stdlib.h:
 
+C:/msys64/mingw64/include/objidl.h:
+
 C:/msys64/mingw64/include/malloc.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm_malloc.h:
@@ -2300,7 +2543,11 @@ C:/msys64/mingw64/include/c++/12.2.0/cerrno:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/charconv.h:
 
+C:/msys64/mingw64/include/datetimeapi.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/bits/basic_string.tcc:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/error_bar.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/enqcmdintrin.h:
 
@@ -2309,6 +2556,8 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/locale_classes.tcc:
 C:/msys64/mingw64/include/c++/12.2.0/system_error:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/unordered_map.h:
+
+C:/msys64/mingw64/include/guiddef.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/stdexcept:
 
@@ -2332,6 +2581,8 @@ C:/msys64/mingw64/include/c++/12.2.0/cwctype:
 
 _deps/eigen-src/Eigen/src/Core/arch/Default/BFloat16.h:
 
+C:/msys64/mingw64/include/c++/12.2.0/ratio:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx2intrin.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/streambuf_iterator.h:
@@ -2342,11 +2593,19 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/bmi2intrin.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/ostream.tcc:
 
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/surface.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/bits/parse_numbers.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/istream:
+
+C:/msys64/mingw64/include/inaddr.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/istream.tcc:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/tsxldtrkintrin.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/axis_type.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/cmath:
 
@@ -2357,6 +2616,10 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/specfun.h:
 C:/msys64/mingw64/include/c++/12.2.0/limits:
 
 C:/msys64/mingw64/include/c++/12.2.0/tr1/special_function_util.h:
+
+C:/msys64/mingw64/include/windows.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/bits/codecvt.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/tr1/bessel_function.tcc:
 
@@ -2372,6 +2635,8 @@ C:/msys64/mingw64/include/c++/12.2.0/tr1/exp_integral.tcc:
 
 _deps/eigen-src/Eigen/src/Eigenvalues/Tridiagonalization.h:
 
+C:/msys64/mingw64/include/wow64apiset.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/bits/shared_ptr_atomic.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/tr1/hypergeometric.tcc:
@@ -2386,6 +2651,8 @@ C:/msys64/mingw64/include/c++/12.2.0/ext/concurrence.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/tr1/poly_hermite.tcc:
 
+C:/msys64/mingw64/include/interlockedapi.h:
+
 C:/msys64/mingw64/include/sec_api/string_s.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/amxtileintrin.h:
@@ -2393,6 +2660,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/amxtileintrin.h:
 C:/msys64/mingw64/include/c++/12.2.0/tr1/poly_laguerre.tcc:
 
 C:/msys64/mingw64/include/c++/12.2.0/tr1/riemann_zeta.tcc:
+
+C:/msys64/mingw64/include/psdk_inc/_fd_types.h:
 
 _deps/eigen-src/Eigen/Dense:
 
@@ -2408,9 +2677,15 @@ _deps/eigen-src/Eigen/src/Core/util/ConfigureVectorization.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mmintrin.h:
 
+C:/msys64/mingw64/include/psdk_inc/_ip_mreq1.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/geodata.h:
+
 _deps/eigen-src/Eigen/src/Core/SolverBase.h:
 
 _deps/eigen-src/Eigen/src/Core/BandMatrix.h:
+
+C:/msys64/mingw64/include/prsht.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/emmintrin.h:
 
@@ -2430,9 +2705,13 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mwaitxintrin.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/complex:
 
+C:/msys64/mingw64/include/handleapi.h:
+
 _deps/eigen-src/Eigen/src/Core/util/MKL_support.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/cstddef:
+
+C:/msys64/mingw64/include/unknwn.h:
 
 _deps/eigen-src/Eigen/src/Core/products/TriangularMatrixMatrix.h:
 
@@ -2465,6 +2744,8 @@ C:/msys64/mingw64/include/_mingw_stdarg.h:
 _deps/eigen-src/Eigen/src/SVD/UpperBidiagonalization.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/unordered_map:
+
+C:/msys64/mingw64/include/oleauto.h:
 
 SDL2_gfx/SDL-2.24.2/include/close_code.h:
 
@@ -2510,6 +2791,10 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avxintrin.h:
 
 _deps/eigen-src/Eigen/src/Core/products/TriangularMatrixVector.h:
 
+C:/msys64/mingw64/include/c++/12.2.0/bits/list.tcc:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/line_spec.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/bits/algorithmfwd.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/stl_heap.h:
@@ -2518,9 +2803,13 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/stl_tempbuf.h:
 
 _deps/eigen-src/Eigen/src/SVD/JacobiSVD.h:
 
+C:/msys64/mingw64/include/processenv.h:
+
 _deps/eigen-src/Eigen/src/Cholesky/LDLT.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/uniform_int_dist.h:
+
+C:/msys64/mingw64/include/winsvc.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/cstring:
 
@@ -2546,6 +2835,8 @@ _deps/eigen-src/Eigen/src/Core/util/Constants.h:
 
 _deps/eigen-src/Eigen/src/Core/Transpositions.h:
 
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/parallel_lines.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/mm3dnow.h:
 
 _deps/eigen-src/Eigen/src/Core/util/Meta.h:
@@ -2557,6 +2848,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512vpopcntdqvlint
 _deps/eigen-src/Eigen/src/Core/util/ForwardDeclarations.h:
 
 _deps/eigen-src/Eigen/src/Core/Array.h:
+
+C:/msys64/mingw64/include/rpcdce.h:
 
 _deps/eigen-src/Eigen/src/Core/util/Memory.h:
 
@@ -2577,6 +2870,10 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/align.h:
 _deps/eigen-src/Eigen/src/Core/GenericPacketMath.h:
 
 _deps/eigen-src/Eigen/src/Core/arch/Default/ConjHelper.h:
+
+C:/msys64/mingw64/include/psdk_inc/_xmitfile.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/bits/fstream.tcc:
 
 _deps/eigen-src/Eigen/src/Eigenvalues/RealSchur.h:
 
@@ -2600,6 +2897,8 @@ _deps/eigen-src/Eigen/src/Core/TriangularMatrix.h:
 
 _deps/eigen-src/Eigen/src/SVD/BDCSVD.h:
 
+C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++io.h:
+
 _deps/eigen-src/Eigen/src/Core/arch/Default/GenericPacketMathFunctions.h:
 
 _deps/eigen-src/Eigen/src/Core/functors/TernaryFunctors.h:
@@ -2607,6 +2906,8 @@ _deps/eigen-src/Eigen/src/Core/functors/TernaryFunctors.h:
 _deps/eigen-src/Eigen/src/Core/functors/UnaryFunctors.h:
 
 _deps/eigen-src/Eigen/src/Core/functors/NullaryFunctors.h:
+
+C:/msys64/mingw64/include/wtypesbase.h:
 
 _deps/eigen-src/Eigen/src/Core/functors/StlFunctors.h:
 
@@ -2617,6 +2918,8 @@ _deps/eigen-src/Eigen/src/Core/functors/AssignmentFunctors.h:
 SDL2_gfx/SDL-2.24.2/include/SDL_metal.h:
 
 _deps/eigen-src/Eigen/src/Core/util/IndexedViewHelper.h:
+
+C:/msys64/mingw64/include/winnt.h:
 
 _deps/eigen-src/Eigen/src/Core/util/ReshapedHelper.h:
 
@@ -2631,6 +2934,8 @@ _deps/eigen-src/Eigen/SVD:
 SDL2_gfx/SDL-2.24.2/include/SDL_locale.h:
 
 _deps/eigen-src/Eigen/src/Core/DenseBase.h:
+
+C:/msys64/mingw64/include/stringapiset.h:
 
 _deps/eigen-src/Eigen/src/plugins/CommonCwiseUnaryOps.h:
 
@@ -2654,11 +2959,15 @@ _deps/eigen-src/Eigen/src/Core/CoreEvaluators.h:
 
 _deps/eigen-src/Eigen/src/Core/AssignEvaluator.h:
 
+C:/msys64/mingw64/include/winnetwk.h:
+
 _deps/eigen-src/Eigen/src/Core/ArrayBase.h:
 
 _deps/eigen-src/Eigen/src/plugins/ArrayCwiseUnaryOps.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_cpuinfo.h:
+
+C:/msys64/mingw64/include/sysinfoapi.h:
 
 _deps/eigen-src/Eigen/src/plugins/ArrayCwiseBinaryOps.h:
 
@@ -2678,7 +2987,11 @@ C:/Users/marop/tp_projekt_3/SDL2_gfx/SDL2_gfxPrimitives.h:
 
 _deps/eigen-src/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h:
 
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/type_traits.h:
+
 _deps/eigen-src/Eigen/src/Core/CwiseTernaryOp.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/axes_lim.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_power.h:
 
@@ -2690,7 +3003,11 @@ _deps/eigen-src/Eigen/src/Core/CwiseUnaryOp.h:
 
 _deps/eigen-src/Eigen/src/Core/CwiseNullaryOp.h:
 
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/histogram.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_numeric_defs.h:
+
+C:/msys64/mingw64/include/bcrypt.h:
 
 _deps/eigen-src/Eigen/src/Core/SelfCwiseBinaryOp.h:
 
@@ -2702,9 +3019,15 @@ _deps/eigen-src/Eigen/src/Core/Stride.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/clwbintrin.h:
 
+C:/msys64/mingw64/include/mmiscapi2.h:
+
+C:/msys64/mingw64/include/securitybaseapi.h:
+
 _deps/eigen-src/Eigen/src/Core/Map.h:
 
 _deps/eigen-src/Eigen/src/Geometry/AngleAxis.h:
+
+C:/msys64/mingw64/include/joystickapi.h:
 
 _deps/eigen-src/Eigen/src/Core/Ref.h:
 
@@ -2712,11 +3035,15 @@ _deps/eigen-src/Eigen/src/Core/Block.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_audio.h:
 
+C:/msys64/mingw64/include/specstrings.h:
+
 _deps/eigen-src/Eigen/src/Core/VectorBlock.h:
 
 _deps/eigen-src/Eigen/src/Core/IndexedView.h:
 
 _deps/eigen-src/Eigen/src/Core/products/TriangularSolverVector.h:
+
+C:/msys64/mingw64/include/winver.h:
 
 _deps/eigen-src/Eigen/src/Core/DiagonalMatrix.h:
 
@@ -2736,7 +3063,11 @@ _deps/eigen-src/Eigen/src/SVD/SVDBase.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/random:
 
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/backend/gnuplot.h:
+
 _deps/eigen-src/Eigen/src/Core/Inverse.h:
+
+C:/msys64/mingw64/include/unknwnbase.h:
 
 _deps/eigen-src/Eigen/src/Core/PermutationMatrix.h:
 
@@ -2746,11 +3077,15 @@ _deps/eigen-src/Eigen/src/Core/products/GeneralBlockPanelKernel.h:
 
 _deps/eigen-src/Eigen/src/Core/products/Parallelizer.h:
 
+C:/msys64/mingw64/include/heapapi.h:
+
 _deps/eigen-src/Eigen/src/Core/ProductEvaluators.h:
 
 _deps/eigen-src/Eigen/src/Core/SolveTriangular.h:
 
 _deps/eigen-src/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h:
+
+C:/msys64/mingw64/include/rpcndr.h:
 
 _deps/eigen-src/Eigen/src/Core/products/SelfadjointMatrixVector.h:
 
@@ -2788,11 +3123,17 @@ _deps/eigen-src/Eigen/src/LU/PartialPivLU.h:
 
 _deps/eigen-src/Eigen/src/LU/Determinant.h:
 
+C:/msys64/mingw64/include/threadpoollegacyapiset.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/bits/stl_map.h:
+
 _deps/eigen-src/Eigen/src/LU/InverseImpl.h:
 
 _deps/eigen-src/Eigen/src/Jacobi/Jacobi.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/smmintrin.h:
+
+C:/msys64/mingw64/include/_mingw_unicode.h:
 
 _deps/eigen-src/Eigen/src/Householder/BlockHouseholder.h:
 
@@ -2832,6 +3173,8 @@ _deps/eigen-src/Eigen/Eigenvalues:
 
 _deps/eigen-src/Eigen/src/Eigenvalues/HessenbergDecomposition.h:
 
+C:/msys64/mingw64/include/nb30.h:
+
 _deps/eigen-src/Eigen/src/Eigenvalues/EigenSolver.h:
 
 _deps/eigen-src/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h:
@@ -2856,6 +3199,8 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/random.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/serializeintrin.h:
 
+C:/msys64/mingw64/include/sal.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/opt_random.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/random.tcc:
@@ -2876,6 +3221,8 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/unique_ptr.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdarg.h:
 
+C:/msys64/mingw64/include/oaidl.h:
+
 C:/msys64/mingw64/include/c++/12.2.0/bits/shared_ptr.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/allocated_ptr.h:
@@ -2888,6 +3235,8 @@ SDL2_gfx/SDL-2.24.2/include/SDL_platform.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_config_windows.h:
 
+C:/msys64/mingw64/include/cderr.h:
+
 C:/msys64/mingw64/include/sdkddkver.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_assert.h:
@@ -2896,11 +3245,15 @@ SDL2_gfx/SDL-2.24.2/include/SDL_atomic.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_mutex.h:
 
+C:/msys64/mingw64/include/servprov.h:
+
 SDL2_gfx/SDL-2.24.2/include/SDL_thread.h:
 
 C:/msys64/mingw64/include/psdk_inc/intrin-impl.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/clflushoptintrin.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/handle_types.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/bmiintrin.h:
 
@@ -2913,6 +3266,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/lwpintrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/pconfigintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/popcntintrin.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/stair.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/rdseedintrin.h:
 
@@ -2943,6 +3298,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512vbmiintrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512vbmi2intrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx5124vnniwintrin.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/ctime:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512vnniintrin.h:
 
@@ -2992,6 +3349,8 @@ SDL2_gfx/SDL-2.24.2/include/SDL_hints.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_render.h:
 
+C:/msys64/mingw64/include/mcx.h:
+
 SDL2_gfx/SDL-2.24.2/include/SDL_shape.h:
 
 SDL2_gfx/SDL-2.24.2/include/SDL_system.h:
@@ -3005,3 +3364,233 @@ C:/msys64/mingw64/include/c++/12.2.0/math.h:
 C:/Users/marop/tp_projekt_3/PlanarQuadrotor/simulate.cpp:
 
 C:/Users/marop/tp_projekt_3/PlanarQuadrotor/simulate.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/matplot.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/common.h:
+
+C:/msys64/mingw64/include/wincon.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/map:
+
+C:/msys64/mingw64/include/c++/12.2.0/bits/stl_tree.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/concepts.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/backend/backend_interface.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/backend/backend_registry.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/chrono:
+
+C:/msys64/mingw64/include/c++/12.2.0/bits/chrono.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/axes_type.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/optional:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/colors.h:
+
+C:/msys64/mingw64/include/winefs.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/legend.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/line.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/axes_object.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/figure_type.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/basic_file.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/popen.h:
+
+C:/msys64/mingw64/include/windef.h:
+
+C:/msys64/mingw64/include/minwindef.h:
+
+C:/msys64/mingw64/include/winsmcrd.h:
+
+C:/msys64/mingw64/include/concurrencysal.h:
+
+C:/msys64/mingw64/include/driverspecs.h:
+
+C:/msys64/mingw64/include/apiset.h:
+
+C:/msys64/mingw64/include/pshpack4.h:
+
+C:/msys64/mingw64/include/poppack.h:
+
+C:/msys64/mingw64/include/pshpack2.h:
+
+C:/msys64/mingw64/include/ktmtypes.h:
+
+C:/msys64/mingw64/include/winbase.h:
+
+C:/msys64/mingw64/include/apisetcconv.h:
+
+C:/msys64/mingw64/include/minwinbase.h:
+
+C:/msys64/mingw64/include/debugapi.h:
+
+C:/msys64/mingw64/include/errhandlingapi.h:
+
+C:/msys64/mingw64/include/fibersapi.h:
+
+C:/msys64/mingw64/include/ioapiset.h:
+
+C:/msys64/mingw64/include/jobapi.h:
+
+C:/msys64/mingw64/include/memoryapi.h:
+
+C:/msys64/mingw64/include/namedpipeapi.h:
+
+C:/msys64/mingw64/include/imm.h:
+
+C:/msys64/mingw64/include/namespaceapi.h:
+
+C:/msys64/mingw64/include/processtopologyapi.h:
+
+C:/msys64/mingw64/include/profileapi.h:
+
+C:/msys64/mingw64/include/realtimeapiset.h:
+
+C:/msys64/mingw64/include/securityappcontainer.h:
+
+C:/msys64/mingw64/include/synchapi.h:
+
+C:/msys64/mingw64/include/threadpoolapiset.h:
+
+C:/msys64/mingw64/include/utilapiset.h:
+
+C:/msys64/mingw64/include/winerror.h:
+
+C:/msys64/mingw64/include/fltwinerror.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/contourc.h:
+
+C:/msys64/mingw64/include/timezoneapi.h:
+
+C:/msys64/mingw64/include/wingdi.h:
+
+C:/msys64/mingw64/include/pshpack1.h:
+
+C:/msys64/mingw64/include/winuser.h:
+
+C:/msys64/mingw64/include/tvout.h:
+
+C:/msys64/mingw64/include/winreg.h:
+
+C:/msys64/mingw64/include/reason.h:
+
+C:/msys64/mingw64/include/wnnc.h:
+
+C:/msys64/mingw64/include/virtdisk.h:
+
+C:/msys64/mingw64/include/dde.h:
+
+C:/msys64/mingw64/include/ddeml.h:
+
+C:/msys64/mingw64/include/dlgs.h:
+
+C:/msys64/mingw64/include/lzexpand.h:
+
+C:/msys64/mingw64/include/mmsystem.h:
+
+C:/msys64/mingw64/include/mmsyscom.h:
+
+C:/msys64/mingw64/include/mciapi.h:
+
+C:/msys64/mingw64/include/mmiscapi.h:
+
+C:/msys64/mingw64/include/playsoundapi.h:
+
+C:/msys64/mingw64/include/mmeapi.h:
+
+C:/msys64/mingw64/include/timeapi.h:
+
+C:/msys64/mingw64/include/rpc.h:
+
+C:/msys64/mingw64/include/rpcdcep.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/matrix.h:
+
+C:/msys64/mingw64/include/rpcasync.h:
+
+C:/msys64/mingw64/include/wincrypt.h:
+
+C:/msys64/mingw64/include/shellapi.h:
+
+C:/msys64/mingw64/include/winperf.h:
+
+C:/msys64/mingw64/include/winsock.h:
+
+C:/msys64/mingw64/include/_bsd_types.h:
+
+C:/msys64/mingw64/include/psdk_inc/_socket_types.h:
+
+C:/msys64/mingw64/include/psdk_inc/_ip_types.h:
+
+C:/msys64/mingw64/include/psdk_inc/_wsadata.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/string_function.h:
+
+C:/msys64/mingw64/include/psdk_inc/_wsa_errnos.h:
+
+C:/msys64/mingw64/include/ncrypt.h:
+
+C:/msys64/mingw64/include/dpapi.h:
+
+C:/msys64/mingw64/include/winscard.h:
+
+C:/msys64/mingw64/include/wtypes.h:
+
+C:/msys64/mingw64/include/rpcnsip.h:
+
+C:/msys64/mingw64/include/objbase.h:
+
+C:/msys64/mingw64/include/combaseapi.h:
+
+C:/msys64/mingw64/include/objidlbase.h:
+
+C:/msys64/mingw64/include/cguid.h:
+
+C:/msys64/mingw64/include/urlmon.h:
+
+C:/msys64/mingw64/include/oleidl.h:
+
+C:/msys64/mingw64/include/msxml.h:
+
+C:/msys64/mingw64/include/propidl.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/axes_functions.h:
+
+C:/msys64/mingw64/include/winioctl.h:
+
+C:/msys64/mingw64/include/winspool.h:
+
+C:/msys64/mingw64/include/commdlg.h:
+
+C:/msys64/mingw64/include/stralign.h:
+
+C:/msys64/mingw64/include/sec_api/stralign_s.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/function_line.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/bars.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/box_chart.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/contours.h:
+
+C:/msys64/mingw64/include/c++/12.2.0/bits/stl_list.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/filled_area.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/labels.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/network.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/axes_objects/vectors.h:
+
+C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/plot.h:

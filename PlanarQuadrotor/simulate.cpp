@@ -2,6 +2,7 @@
  * SDL window creation adapted from https://github.com/isJuhn/DoublePendulum
 */
 #include "simulate.h"
+#include "matplot/matplot.h"
 
 Eigen::MatrixXf LQR(PlanarQuadrotor &quadrotor, float dt) {
     /* Calculate LQR gain matrix */
@@ -102,9 +103,10 @@ int main(int argc, char* args[])
                         goal_state << x, y, 0, 0, 0, 0;
                         quadrotor.SetGoal(goal_state);
                 }
-                else if (e.type == SDL_SCANCODE_P)
+                else if (e.type == SDLK_p)
                 {
-                    
+                    matplot::plot(x_history,y_history);
+                    matplot::show();
                 }
             }
 
