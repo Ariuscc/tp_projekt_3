@@ -541,9 +541,6 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/simulate.cpp.obj: \
  C:/Users/marop/tp_projekt_3/build/SDL2_gfx/SDL-2.24.2/include/SDL_misc.h \
  C:/Users/marop/tp_projekt_3/SDL2_gfx/SDL2_gfxPrimitives.h \
  C:/msys64/mingw64/include/c++/12.2.0/math.h \
- C:\Users\marop\tp_projekt_3\PlanarQuadrotor\planar_quadrotor.h \
- C:\Users\marop\tp_projekt_3\PlanarQuadrotor\lqr.h \
- C:\Users\marop\tp_projekt_3\PlanarQuadrotor\planar_quadrotor_visualizer.h \
  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/matplot.h \
  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/util/common.h \
  C:/msys64/mingw64/include/c++/12.2.0/map \
@@ -706,4 +703,7 @@ CMakeFiles/planar_quadrotor.dir/PlanarQuadrotor/simulate.cpp.obj: \
  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/axes_lim.h \
  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/histcounts.h \
  C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/freestanding/plot.h \
- C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/figure_registry.h
+ C:/Users/marop/tp_projekt_3/matplotplusplus/source/matplot/core/figure_registry.h \
+ C:\Users\marop\tp_projekt_3\PlanarQuadrotor\planar_quadrotor.h \
+ C:\Users\marop\tp_projekt_3\PlanarQuadrotor\lqr.h \
+ C:\Users\marop\tp_projekt_3\PlanarQuadrotor\planar_quadrotor_visualizer.h
